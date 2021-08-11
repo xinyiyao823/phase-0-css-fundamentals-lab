@@ -36,5 +36,6 @@ section > p {
   text-align: center;
   display: flex;
   justify-content: center;
+  background-color: red;
 }
 
