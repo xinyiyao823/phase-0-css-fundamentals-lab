@@ -3,3 +3,38 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+figure {
+  margin: auto;
+  width: 60%;
+}
+
+nav > a {
+  
+  padding-left:10px;
+  padding-right:10px;
+  background-color: teal;
+}
+
+figcaption {
+  text-align: center;
+  font-size: smaller;
+}
+
+section > p {
+  text-align:center;
+  padding-left: 350px;
+  width: 800px; 
+
+}
+
+#details {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
